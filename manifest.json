@@ -1,0 +1,9 @@
+{
+    "name": "Modern Random Number Generator",
+    "short_name": "ModRandNum",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff6b6b",
+    "icons": []
+  }
